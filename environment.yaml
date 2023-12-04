@@ -1,4 +1,4 @@
-name: schp
+name: [ENV]
 channels:
   - pytorch
   - defaults

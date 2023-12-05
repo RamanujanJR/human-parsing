@@ -45,5 +45,5 @@ dependencies:
   - zstd=1.4.5=h9ceee32_0
   - pytorch=1.5.1=py3.8_cuda10.1.243_cudnn7.6.3_0
   - torchvision=0.6.1=py38_cu101
-prefix: /home/peike/opt/anaconda3/envs/schp
+prefix: /home/peike/opt/anaconda3/envs/[ENV]
 
